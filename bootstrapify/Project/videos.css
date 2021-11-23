@@ -1,0 +1,53 @@
+body{background-color: lightgray;
+}
+.navbar-dark .navbar-brand{ display: inline-block; height: 40px;font-size: 30px;
+    font-family: -apple-system, Cantarell, 'Open Sans', sans-serif;letter-spacing: 0.05px;
+    color: rgb(228, 74, 202); margin-left: 30px;text-shadow: white 0-2px;
+}
+
+.navbar-nav{ margin-right:40px;
+}
+
+.btn-secondary { background-color: white;border-radius: 20px;width: 50%;font-weight: bold; color: violet; 
+}
+
+.bg div video{margin-left: auto;margin-right: auto;display: block;
+}
+
+.bg div iframe{margin-left: auto;margin-right: auto;display: block;
+}
+
+.bg .vid1{ margin-bottom: 10px;margin-top: 10px;
+}
+.bg .iframe1{margin-bottom: 10px;margin-top: 10px;
+}
+.bg .vid2{margin-bottom: 10px;margin-top: 10px;
+}
+.bg .vid3{margin-bottom: 10px;margin-top: 10px;
+}
+.bg .vid4{margin-bottom: 10px;margin-top: 10px;
+}
+.bg .vid5{ margin-bottom: 10px;margin-top: 10px;
+}
+.footer{background-color: black;width: 100%;height: 5%;padding: 4px;display: flex;flex-direction: column;
+    justify-content: center;align-items: center;
+}
+.footer container-fluid{
+    margin-top: 5px;
+}
+.container-fluid p{text-align: center;color: rgb(228, 74, 202); font-size: 1rem;
+    font-family: -apple-system,'Open Sans', ;
+}
+
+.display-inline li{list-style-type: none;color: white;margin: auto 15px;font-size: 10px;
+}
+
+.display-inline a{text-decoration: none;
+}
+
+.display-inline ul{display: flex;justify-content: space-evenly;
+}
+
+.social-link a {color:white;  font-size: 15px;text-decoration: none;display: inline-flex; 
+    justify-content: space-between; 
+}

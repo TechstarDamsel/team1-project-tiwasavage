@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(250, 202, 234);
+}
+.row g-0{
+    display: flex;
+    width: ;
+    margin-left: 200px;
+}
+.card-text{
+    width: 50%;
+}
+.img-fluid rounded-start{
+    width: 80%;
+}
+.card-mb-3{
+    width: 50%;
+}
+.popo{
+    color: purple;
+}

@@ -1,0 +1,328 @@
+body{
+    background-color: violet;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-fluid{
+    margin-left: px;
+    text-decoration: none;
+}
+.navbar-brand{
+    display: inline-block;
+    height: 46px;
+    width: 146px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    margin-left: 100px;
+    font-size: 40px;
+    color: black!important;
+    margin-bottom: 20px;
+}
+p{
+    color: purple;
+}
+b{  
+    stroke: solid #FFFFFF;
+    color: purple;
+}
+.navbar{
+    
+}
+.songname-no{
+    border-radius: 25px;
+    height: 300px;
+    width: 700px;
+    margin-top: 100px;
+    margin-left: 250px;
+    background-color:orchid;
+    display: flex;
+    background-image: url();
+    background-size: contain;
+}
+.songname{
+    border-radius: 25px;
+    height: 300px;
+    width: 700px;
+    margin-top: 100px;
+    margin-left: 250px;
+    background-color:white;
+    display: flex;
+    background-image: url();
+    background-size: contain;
+}
+h4{
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.nav-item{
+    margin-left: 0px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 230px;
+}
+li{
+    margin-left: 30px;
+}
+ul{
+    margin-left: 50px;
+    color: white;
+    
+}
+.popo{
+    color: purple;
+}
+button{
+    border-radius: 25px;
+    background-color: beige;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 30px;*/
+}
+.dear{
+    color: white;
+}
+.aa{
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 50%;
+}
+.ll{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    margin-left: px;
+    margin-top: 5px;
+}
+.live{
+    margin-top: 20px;
+}
+.ao{
+    background-image: url(./malo\ tiwa\ savage\ 2.png);
+    background-size: cover;
+    width: 300px;
+    border-radius: 25px
+}
+.oo{
+    background-image: url(./all\ over\ tiwa\ savage\ 2.png);
+    background-size: cover;
+    width: 300px;
+    border-radius: 25px
+}
+.ob{
+    background-image: url(./Tiwa-Savage-–-Attention\ 2.png);
+    background-size: cover;
+    width: 300px;
+    border-radius: 25px
+}
+.od{
+    background-image: url(./Tiwa-Savage-–-Koroba\ 2.png);
+    background-size: cover;
+    width: 300px;
+    border-radius: 25px
+}
+.do{
+    background-image: url(./lova\ lova\ 2.png);
+    background-size: cover;
+    width: 300px;
+    border-radius: 25px
+}
+.bo{
+    
+    background-image: url(./WhatsApp\ Image\ 2021-09-28\ at\ 6.08\ 3.png);
+    background-size: cover;
+    width: 300px;
+    border-radius: 25px;
+    
+}
+.lock{
+    margin-left: 450px;
+}
+.bb{
+    margin-left: 50px;
+    color: white;
+}
+.aye{
+    border: burlywood solid 1px;
+    border-radius: 25px;
+    height: 500px;
+    width: 1200px;
+    margin-top: 100px;
+    margin-left: 30px;
+    background-color:black;
+    display: flex;
+}
+.box-2{
+    background-image: url(./9A699BB5-5848-4121-8B5E-A4F2C875ADB7.png);
+    background-size: cover;
+    width: 90%;
+    height: 80%;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.lor{
+    margin-left: 8%;
+}
+h6{
+    margin-top: 200px;
+    margin-right: 60px;
+    color: white;
+}
+
+}
+h1{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: white;
+}
+.box-3{
+    background-image: url(./WhatsApp\ Image\ 2021-09-28\ at\ 6.08\ 3.png);
+    width: 300px;
+    height: 60%;
+    margin-top: 0px;
+    margin-left: 400px;
+    background-size: cover;
+}
+.ayi{
+    border: burlywood solid 1px;
+    border-radius: 25px;
+    height: 500px;
+    width: 1200px;
+    margin-top: 100px;
+    margin-left: 30px;
+    background-color: black;
+}
+.lo{
+    text-align: center;
+}
+.on{
+    margin-left: 480px;
+}
+.check{
+    margin-left: 500px;
+    margin-top: 25px;
+    color: white;
+}
+.box-4{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 10px;
+    
+}
+.flex-item{
+    background-color: coral;
+    border: darkblue solid 1px;
+    border-radius: 25px;
+    margin: 10px;
+    margin-left: 50px;
+    
+}
+.flex-item-1{
+background-color: coral;
+    border: darkblue solid 1px;
+    border-radius: 25px;
+    margin: 10px;
+    margin-left: 50px;
+    
+}
+.flex-item-2{
+    background-color: coral;
+        border: darkblue solid 1px;
+        border-radius: 25px;
+        margin: 10px;
+        margin-left: 50px;
+    }
+    .sign{
+        border: burlywood solid 1px;
+        border-radius: 25px;
+        height: 500px;
+        width: 1200px;
+        margin-top: 100px;
+        margin-left: 30px;
+        background-color:black;
+        display: flex;
+    }
+    .su{
+        background-color: purple;
+        color: white;
+    }
+    .RED{
+        margin-left: 300px;
+        margin-top: 10px;
+    }
+    .READ{
+        margin-top: 20px;
+    }
+    .form-check-label{
+        margin-left: 20px;
+        color: white;
+    }
+    .col-12{
+        margin-left: 60px;
+        margin-top: 40px;
+    }
+    .ss{
+        color: white;
+        text-align: center;
+        font-size: 40px;
+    }
+    .mb-3{
+        margin-top: 40px;
+        color: white;
+        margin-left: 10px;
+        
+    }
+    .form-control{
+        width: 900px;
+        border-radius: 25px;
+    }
+    .footer{
+        /* border: black solid 1px; */
+        background-color: black;
+        width: 100%;
+        height: 24%;
+        padding: 4px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 80px;
+        margin-bottom: 0px;
+    }
+    .container-fluid p{
+        text-align: center;
+        color: rgb(228, 74, 202); 
+        font-size: 2rem;
+        font-family: -apple-system,'Open Sans', Cantarell, ;
+    }
+    .display-inline li{
+        list-style-type: none;
+        color: white;
+        margin: auto 15px;
+        font-size: 10px;
+    }
+    .display-inline a{
+        text-decoration: none;
+        margin-left: 40px;
+    }
+    .display-inline ul{
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 50px;
+    }
+    .display-inline{
+        margin-left: 0px;
+    }
+    .social-link a {
+        color:white; 
+        font-size: 15px;
+        text-decoration: none;
+        display: inline-flex; 
+        justify-content: space-between;
+         margin-left: 50px;
+    }
